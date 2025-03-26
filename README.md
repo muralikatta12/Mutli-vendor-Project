@@ -1,3 +1,5 @@
+API Structure
+![image](https://github.com/user-attachments/assets/57e05025-e1d3-449e-b801-deb57a7df81b)
 
 ![image](https://github.com/user-attachments/assets/38a06de4-06c7-48b7-849f-b04d593c4ef4)
 ![image](https://github.com/user-attachments/assets/64e3abce-bbfa-4407-93a2-b75b87f7df7a)
