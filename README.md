@@ -65,17 +65,24 @@ Products are linked to firms and added by vendors. File/image upload is handled 
 
   Vendors can add a product under a firm, including image uploads.
 
-- **Get All Products**:  
-  `GET /api/product/all`  
+- **Get All Products**:
+  ![image](https://github.com/user-attachments/assets/c835393e-55b0-4cb8-875e-637497e810ec)
+- 
+  `GET /api/product/all`
+  
   Returns a list of all products added by vendors.
 
 ---
 
 ### 4️⃣ Dashboard Overview
+
+
 The dashboard provides an admin-level view of:
 - Total Vendors Count
 - Total Firms Count
-- Total Products Count  
+- Total Products Count
+  
+![image](https://github.com/user-attachments/assets/87dade9d-a569-4b75-aa27-60b12ec2c179)
 
 This helps the admin monitor platform activity.
 
@@ -95,11 +102,6 @@ This helps the admin monitor platform activity.
 
 
 
-
-![image](https://github.com/user-attachments/assets/64e3abce-bbfa-4407-93a2-b75b87f7df7a)
-![image](https://github.com/user-attachments/assets/c835393e-55b0-4cb8-875e-637497e810ec)
-![image](https://github.com/user-attachments/assets/87dade9d-a569-4b75-aa27-60b12ec2c179)
-![image](https://github.com/user-attachments/assets/8ced18a8-2115-449d-8e74-552457b0a72d)
 
 
 
