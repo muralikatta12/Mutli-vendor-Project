@@ -1,0 +1,23 @@
+Dependencies:
+           -> Express
+           -> Mongoose
+           -> Dotenv
+           -> Body-parser
+           -> nodemon
+           ->jwt token ->for token based authentication(converting email and password into token)
+           ->bcryptjs ->for password hashing
+           ->multer ->for image upload
+
+creation to database
+API creation 
+          -> Models 
+              ->vendor :username,email,password
+              -> Firm:firstName,area,category,region,offer,image
+              ->product: productName,price,category,image,bestseller,description
+          -> Controller
+              ->vendorController
+          ->Routes
+               ->vendorRoutes
+               
+
+ "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZW5kb3JJZCI6IjY3YWVlMzEzZmEwNDVjMjU0MDhiZTI4NSIsImlhdCI6MTczOTUxNTM3NywiZXhwIjoxNzM5NTE4OTc3fQ.LQUD4596lnT1PM9EBKrLQwS2JMK02KycQg3DQBvtx5o"
